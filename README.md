@@ -11,4 +11,4 @@ Growth mindset means...
 - Reminder 2
 - Reminder 3
 
-Link to my github portfolio:  https://jenniferlidotson.github.io
+[Link] to my github portfolio (https://github.comjenniferlidotson)
