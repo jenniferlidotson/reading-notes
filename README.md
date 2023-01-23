@@ -1,11 +1,11 @@
 # reading-notes
-My reading journal for Code Fellows
+This is my reading journal for Code Fellows
 
-My name is Jennifer and I think JavaScript is *magical!*
+Aloha!  My name is Jennifer and I think coding is *challenging and fun!*
 
 Growth mindset means I believe in myself and I can accomplish tasks that are hard.
 
-## Reminders to stay in a growth mindset:
+## Here are some reminders to help me stay in a growth mindset:
 
 - I will try again.
 - I will be patient.
