@@ -6,7 +6,7 @@ Markdown is a very easy-to-use language in plain text that adds formatting eleme
 
 For any of my non-technical friends interested in learning about Markdown, I highly recommend starting by watching an overview video that explains how simple it can be to create websites that showcase your hobbies, your projects or anything else you want to share with the world.  Check out [https://pages.github.com](https://pages.github.com).
 
-Here are examples of some [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax)
+## Here are examples of some [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax)
 
 - In order to *italicize* text, add one * before and after a word.
 
@@ -18,8 +18,8 @@ Since there are so many great options, I also recommended bookmarking this [webs
 
 ## Things I want to know more about
 
-- Note 1
+- Using [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) for further customizations.
 
-- Note 2
+- Using Supported Color Modules such as `#0969DA` in issues, pull requests, and discussions.
 
 - Note 3
