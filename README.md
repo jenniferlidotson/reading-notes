@@ -12,3 +12,28 @@ Growth mindset means I believe in myself and I can accomplish tasks that are har
 - I will **improve**.
 
 Link to my github portfolio [https://github.com/jenniferlidotson](https://github.com/jenniferlidotson)
+
+## MY INTRODUCTION
+
+
+## A DESCRIPTION OF WHAT THIS WEBSITE IS ABOUT
+
+
+## TABLE OF CONTENTS
+
+### Code 102 Reading Notes 
+
+[Class 1 - Markdown](./102/class1.md)
+
+[Class 2 - Text Editor](./102/class2.md)
+
+Class 3 - TBD
+
+Class 4 - TBD
+
+
+
+
+### 201
+
+
