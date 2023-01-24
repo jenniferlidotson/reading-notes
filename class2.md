@@ -9,11 +9,17 @@ There are many different classifications of text editors. It is important for so
 3. a nice variety of themes to reduce eye strain and fatigue
 4. the ability to choose from a healthy selection ofextensions available when you need them
 
-Here are three great "cheat sheets” for basic terminal usage:
+## Here are three great "cheat sheets” for basic terminal usage:
 
 1. [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
 2. [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 3. [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+
+## Here are three useful commands for navigation in terminal
+
+1. pwd = print working directory
+2. ls = list
+3. cd = change directory
 
 ## Things I want to know more about
 
