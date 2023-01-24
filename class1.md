@@ -22,4 +22,4 @@ Since there are so many great options, I also recommended bookmarking this [webs
 
 - Using Supported Color Modules such as `#0969DA` in issues, pull requests, and discussions.
 
-- Using [Emojis](https://github.com/ikatyang/emoji-cheat-sheet#emoji-cheat-sheet) just to keep things fun :smile: :+1: :heart:
+- Using [Emojis](https://github.com/ikatyang/emoji-cheat-sheet#emoji-cheat-sheet) to keep things fun :smile: :+1: :heart:
