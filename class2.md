@@ -20,6 +20,3 @@ Here are three great "cheat sheets” for basic terminal usage:
 - After getting a preview of VS Code, I'm excited to dig in deeper!
 
 - After hearing about Shortcuts, I'm excited to commit them to my memory! 
-
-- Using [Emojis](https://github.com/ikatyang/emoji-cheat-sheet#emoji-cheat-sheet) to keep things fun :smile: :+1: :heart:
-
