@@ -18,8 +18,8 @@ Since there are so many great options, I also recommended bookmarking this [webs
 
 ## Things I want to know more about
 
-- Using [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) for further customizations.
+- Using [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) for further customizations
 
-- Using Supported Color Modules such as `#0969DA` in issues, pull requests, and discussions.
+- Using Supported Color Modules such as `#0969DA` 
 
 - Using [Emojis](https://github.com/ikatyang/emoji-cheat-sheet#emoji-cheat-sheet) to keep things fun :smile: :+1: :heart:
