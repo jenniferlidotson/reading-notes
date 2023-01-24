@@ -22,4 +22,4 @@ Since there are so many great options, I also recommended bookmarking this [webs
 
 - Using Supported Color Modules such as `#0969DA` in issues, pull requests, and discussions.
 
-- Using Mentions to collaborate with my teammates @kassiebradshaw 
+- Using Mentions to collaborate with teammates at @codefellows
