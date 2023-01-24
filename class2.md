@@ -9,8 +9,13 @@ There are many different classifications of text editors. It is important for so
 3. a nice variety of themes to reduce eye strain and fatigue
 4. the ability to choose from a healthy selection ofextensions available when you need them
 
+Here are three great "cheat sheets” for basic terminal usage:
 
-For any of my non-technical friends interested in learning about Markdown, I highly recommend starting by watching an overview video that explains how simple it can be to create websites that showcase your hobbies, your projects or anything else you want to share with the world.  Check out [https://pages.github.com](https://pages.github.com).
+1. [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.phpO
+2. [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+3. [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+
+
 
 ## Here are examples of some [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax)
 
