@@ -8,11 +8,13 @@ For any non-technical friend interested in learning about Markdown, I recommend 
 
 Here are examples of some [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax)
 
-- In order to **bold** text, add two ** before and after a word.
-
 - In order to *italicize* text, add one * before and after a word.
 
-- Note 3
+- In order to **bold** text, add two ** before and after a word.
+
+- In order to ***italicize and bold*** text at the same time, add three *** before and after a word.
+
+Since there are so many great options, I recommended bookmarking this [website](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) about writing and formatting syntax. 
 
 ## Things I want to know more about
 
