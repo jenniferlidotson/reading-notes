@@ -9,6 +9,8 @@ There are many different classifications of text editors. It is important for so
 3. a nice variety of themes to reduce eye strain and fatigue
 4. the ability to choose from a healthy selection ofextensions available when you need them
 
+(I can definitely appreciate #3 in my old age!) :joy:
+
 ## Here are three great "cheat sheets” for basic terminal usage
 
 1. [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
