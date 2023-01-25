@@ -1,39 +1,59 @@
-# reading-notes
-Welcome to my reading journal for Code Fellows after reading an article from our friends [Inside Atlassian](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+# My Introduction
 
-Aloha!  My name is Jennifer and I think coding is *challenging and fun!* 
+Aloha! I'm Jennifer Li Dotson and welcome to my repo!
 
-Growth mindset means I believe in myself and I can accomplish tasks that are hard.
+## **Description of this Website**
 
-## Here are some reminders to help me stay in a growth mindset:
+On this page, you will find a visual collection of my learning journals as I continue to grow in my coding journey!
 
-- I will try **again**.
-- I will be **patient**.
-- I will **improve**.
-
-Link to my github portfolio [https://github.com/jenniferlidotson](https://github.com/jenniferlidotson)
-
-## MY INTRODUCTION
-
-
-## A DESCRIPTION OF WHAT THIS WEBSITE IS ABOUT
-
-
-## TABLE OF CONTENTS
+## **Table of Contents**
 
 ### Code 102 Reading Notes 
 
-[Class 1 - Markdown](./102/class1.md)
+* [Class 01 Notes - Markdown](./102/class1.md)
 
-[Class 2 - Text Editor](./102/class2.md)
+* [Class 02 Notes - Text Editor](./102/class2.md)
 
-Class 3 - TBD
+* Class 03 - TBD
 
-Class 4 - TBD
+* Class 04 - TBD
 
+* Class 05 - TBD
 
+* Class 06 - TBD
 
+* Class 07 - TBD
 
-### 201
+* Class 08 - TBD
 
+### Code 201 Reading Notes
 
+* Class 01 - TBD
+
+* Class 02 - TBD
+
+* Class 03 - TBD
+
+* Class 04 - TBD
+
+* Class 05 - TBD
+
+* Class 06 - TBD
+
+* Class 07 - TBD
+
+* Class 08 - TBD
+
+* Class 09 - TBD
+
+* Class 10 - TBD
+
+* Class 11 - TBD
+
+* Class 12 - TBD
+
+* Class 13 - TBD
+
+* Class 14 - TBD
+
+* Class 15 - TBD
