@@ -1,6 +1,6 @@
 # My Introduction
 
-Aloha! I'm Jennifer Li Dotson and welcome to my repo!
+Aloha! I'm Jennifer Li Dotson (she/her) and welcome to my repo!
 
 ## **Description of this Website**
 
@@ -57,3 +57,5 @@ On this page, you will find a visual collection of my learning journals as I con
 * Class 14 - TBD
 
 * Class 15 - TBD
+
+#### Link to my github portfolio [https://github.com/jenniferlidotson](https://github.com/jenniferlidotson)
