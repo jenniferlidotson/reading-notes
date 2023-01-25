@@ -28,3 +28,5 @@ There are many different classifications of text editors. It is important for so
 - After getting a preview of VS Code, I'm excited to dig in deeper!
 
 - After hearing about Shortcuts, I'm excited to commit them to my memory! 
+
+### Link to my github portfolio [https://github.com/jenniferlidotson](https://github.com/jenniferlidotson)

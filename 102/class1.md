@@ -23,3 +23,5 @@ Since there are so many great options, I also recommended bookmarking this [webs
 - Using Supported Color Modules such as `#0969DA` 
 
 - Using [Emojis](https://github.com/ikatyang/emoji-cheat-sheet#emoji-cheat-sheet) to keep things fun :smile: :+1: :heart:
+
+### Link to my github portfolio [https://github.com/jenniferlidotson](https://github.com/jenniferlidotson)
