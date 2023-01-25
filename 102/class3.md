@@ -8,7 +8,7 @@ Each time you save a changed version of your project — called commit — Git c
 
 * git status - when should you use it? use it all the time!!! show your status in the ACP process, changes, etc.
 
-*git add <filename> stages your snapshot! choose which files to commit (takes a snapshot of it)
+* git add <filename> stages your snapshot! choose which files to commit (takes a snapshot of it)
 
 * git add <filename> <filename> <filename>  (this chains the filenames together)
 
