@@ -14,7 +14,7 @@ This is a visual collection of my different learning journals as I continue to g
 
 * [Class 02 - Text Editor](./102/class2.md)
 
-* [Class 03 - TBD](./102/class3.md)
+* [Class 03 - Revisions](./102/class3.md)
 
 * [Class 04 - TBD](./102/class4.md)
 
