@@ -18,7 +18,7 @@ This is a visual collection of my different learning journals as I continue to g
 
 * [Class 04 - HTML](./102/class4.md)
 
-* [Class 05 - TBD](./102/class5.md)
+* [Class 05 - CSS](./102/class5.md)
 
 * [Class 06 - TBD](./102/class6.md)
 
