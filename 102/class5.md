@@ -2,7 +2,7 @@
 
 [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 
-CSS (Cascading Style Sheets) allows you to create great-looking web pages! During this assignment we focused on adding colors.
+CSS (Cascading Style Sheets) allows you to create great-looking web pages! During this assignment, we focused on adding colors.
 
 ## Here are CSS "cheat sheets” that are helpful for coding
 
