@@ -22,7 +22,7 @@ This is a visual collection of my different learning journals as I continue to g
 
 * [Class 06 - JavaScript](./102/class6.md)
 
-* [Class 07 - TBD](./102/class7.md)
+* [Class 07 - Functions](./102/class7.md)
 
 * [Class 08 - TBD](./102/class8.md)
 
