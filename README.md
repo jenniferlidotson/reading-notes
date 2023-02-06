@@ -28,7 +28,7 @@ This is a visual collection of my different learning journals as I continue to g
 
 ### Code 201 - Foundations of Software Development
 
-* [Class 01 - TBD](./201/class1.md)
+* [Class 01 - JavaScript](./201/class1.md)
 
 * [Class 02 - TBD](./201/class2.md)
 
