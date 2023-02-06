@@ -1,10 +1,10 @@
 # My Introduction
 
-Aloha! I'm Jennifer Li Dotson (she/her) and welcome to my repo! I invite you to click on the links below and enjoy browsing through the various topics.
+***Aloha! I'm Jennifer Li Dotson (she/her) and welcome to my repo! I invite you to click on the links below and enjoy browsing through the various topics.***
 
 ## **Description of this Website**
 
-This is a visual collection of my different learning journals as I continue to grow in my coding journey!
+***This is a visual collection of my different learning journals as I continue to grow in my coding journey!***
 
 ## **Table of Contents - Reading Notes**
 
