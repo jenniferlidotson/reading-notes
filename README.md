@@ -6,9 +6,9 @@ Aloha! I'm Jennifer Li Dotson (she/her) and welcome to my repo! I invite you to 
 
 This is a visual collection of my different learning journals as I continue to grow in my coding journey!
 
-## **Table of Contents**
+## **Table of Contents - Reading Notes**
 
-### Code 102 Reading Notes 
+### Code 102 - Intro to Software Development
 
 * [Class 01 - Markdown](./102/class1.md)
 
@@ -26,7 +26,7 @@ This is a visual collection of my different learning journals as I continue to g
 
 * [Class 08 - Operators and Loops](./102/class8.md)
 
-### Code 201 Reading Notes
+### Code 201 - Foundations of Software Development
 
 * [Class 01 - TBD](./201/class1.md)
 
