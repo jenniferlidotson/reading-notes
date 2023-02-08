@@ -1,6 +1,6 @@
 # Class 2 Reading Notes
 
-## Introduction to HTML
+## HTML Review
 
 HTML is a language made up of elements, which can be applied to pieces of text to give them different meaning in a document, structure a document into logical sections, and embed content such as images and videos into a page. 
 
@@ -16,11 +16,11 @@ HTML is a language made up of elements, which can be applied to pieces of text t
 
 JavaScript is a programming language that adds interactivity to your website. This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation
 
-## Making decisions in your code — conditionals
+## Conditionals
 
 Code needs to make decisions and carry out actions accordingly depending on different inputs. For example, in a game, if the player's number of lives is 0, then it's game over. In a weather app, if it is being looked at in the morning, show a sunrise graphic; show stars and a moon if it is nighttime.
 
-## How to Write a Git Commit Message
+## Best Practices for Git Commit Message
 
 - Separate subject from body with a blank line
 
