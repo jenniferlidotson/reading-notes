@@ -38,10 +38,10 @@ Code needs to make decisions and carry out actions accordingly depending on diff
 
 ### Things I want to know more about
 
-- 
+- How to get more fluent using conditional structures in JavaScript.
 
-- 
+- Utilizing functions as a good alternative to repeatedly writing the same code.
 
-- 
+- Understanding CSS fundamental syntax structures in detail.
 
 #### Link to my github portfolio [https://github.com/jenniferlidotson](https://github.com/jenniferlidotson)
