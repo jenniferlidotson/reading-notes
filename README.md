@@ -30,7 +30,7 @@
 
 * [Class 01 - JavaScript](./201/class1.md)
 
-* [Class 02 - TBD](./201/class2.md)
+* [Class 02 - Basics of HTML, CSS & JS](./201/class2.md)
 
 * [Class 03 - TBD](./201/class3.md)
 
