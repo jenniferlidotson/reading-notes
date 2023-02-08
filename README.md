@@ -32,7 +32,7 @@
 
 * [Class 02 - Basics of HTML, CSS & JS](./201/class2.md)
 
-* [Class 03 - TBD](./201/class3.md)
+* [Class 03 - HTML Lists, Control Flow with JS, and CSS Box Model](./201/class3.md)
 
 * [Class 04 - TBD](./201/class4.md)
 
