@@ -2,9 +2,15 @@
 
 ## HTML Links
 
-HTML is a language made up of elements, which can be applied to pieces of text to give them different meaning in a document, structure a document into logical sections, and embed content such as images and videos into a page. 
+- Hyperlinks allow us to link documents to other documents or resources, link to specific parts of documents, or make apps available at a web address. Almost any web content can be converted to a link so that when clicked or otherwise activated the web browser goes to another web address (URL).
 
-- Advanced text formatting: marking up quotations, description lists, computer code and other related text, subscript and superscript, contact information
+- A URL can point to HTML files, text files, images, text documents, video and audio files, or anything else that lives on the Web. 
+
+## CSS Layout
+
+- By default, a block level element's content fills the available inline space of the parent element containing it and the element grows along the block dimension to accommodate its content. The size of inline elements is just the size of their content. You can't set width or height on inline elements — they just sit inside the content of block level elements — except for images. Unlike other inline elements, images can be resized without changing their display property.
+
+- Inline elements behave differently. They don't appear on new lines; instead, they all sit on the same line along with any adjacent (or wrapped) text content as long as there is space for them to do so inside the width of the parent block level element. If there isn't space, then the overflowing content will move down to a new line.
 
 ## JS Functions
 
