@@ -34,7 +34,7 @@
 
 * [Class 03 - HTML Lists, Control Flow with JS, and CSS Box Model](./201/class3.md)
 
-* [Class 04 - TBD](./201/class4.md)
+* [Class 04 - HTML Links, JS Functions, and Intro to CSS Layout](./201/class4.md)
 
 * [Class 05 - TBD](./201/class5.md)
 
