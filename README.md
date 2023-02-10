@@ -36,7 +36,7 @@
 
 * [Class 04 - HTML Links, JS Functions, and Intro to CSS Layout](./201/class4.md)
 
-* [Class 05 - TBD](./201/class5.md)
+* [Class 05 - Images, Color, Text](./201/class5.md)
 
 * [Class 06 - TBD](./201/class6.md)
 
