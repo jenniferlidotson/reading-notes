@@ -38,7 +38,7 @@
 
 * [Class 05 - Images, Color, Text](./201/class5.md)
 
-* [Class 06 - TBD](./201/class6.md)
+* [Class 06 - Problem Domain, Objects, and the DOM](./201/class6.md)
 
 * [Class 07 - TBD](./201/class7.md)
 
