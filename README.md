@@ -40,7 +40,7 @@
 
 * [Class 06 - Problem Domain, Objects, and the DOM](./201/class6.md)
 
-* [Class 07 - TBD](./201/class7.md)
+* [Class 07 - Object-Oriented Programming, HTML Tables](./201/class7.md)
 
 * [Class 08 - TBD](./201/class8.md)
 
