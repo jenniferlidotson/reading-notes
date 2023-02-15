@@ -42,7 +42,7 @@
 
 * [Class 07 - Object-Oriented Programming, HTML Tables](./201/class7.md)
 
-* [Class 08 - TBD](./201/class8.md)
+* [Class 08 - CSS Layout](./201/class8.md)
 
 * [Class 09 - TBD](./201/class9.md)
 
