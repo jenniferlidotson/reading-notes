@@ -44,7 +44,7 @@
 
 * [Class 08 - CSS Layout](./201/class8.md)
 
-* [Class 09 - TBD](./201/class9.md)
+* [Class 09 - Forms and JS Events](./201/class9.md)
 
 * [Class 10 - TBD](./201/class10.md)
 
