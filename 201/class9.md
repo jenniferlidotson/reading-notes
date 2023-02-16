@@ -2,32 +2,48 @@
 
 ## HTML Forms
 
-- They can display as a row, or a column.
+- Web forms are a very powerful tool for interacting with users — most commonly they are used for collecting data from users, or allowing them to control a user interface.
 
-- They respect the writing mode of the document.
+- Web forms are one of the main points of interaction between a user and a website or application. Forms allow users to enter data, which is generally sent to a web server for processing and storage
 
-- They are single line by default, but can be asked to wrap onto multiple lines.
+- A web form's HTML is made up of one or more form controls (sometimes called widgets), plus some additional elements to help structure the overall form — they are often referred to as HTML forms. The controls can be single or multi-line text fields, dropdown boxes, buttons, checkboxes, or radio buttons, and are mostly created using the <input> element, although there are some other elements to learn about too.
 
-- Items in the layout can be visually reordered, away from their order in the DOM.
+- Form controls can also be programmed to enforce specific formats or values to be entered (form validation), and paired with text labels that describe their purpose to both sighted and visually impaired users.
 
-- Space can be distributed inside the items, so they become bigger and smaller according to the space available in their parent.
+- The <form> element formally defines a form and attributes that determine the form's behavior. Each time you want to create an HTML form, you must start it by using this element, nesting all the contents inside. Many assistive technologies and browser plugins can discover <form> elements and implement special hooks to make them easier to use.
 
-- Space can be distributed around the items and flex lines in a wrapped layout, using the Box Alignment properties.
+- The <fieldset> element is a convenient way to create groups of widgets that share the same purpose, for styling and semantic purposes. You can label a <fieldset> by including a <legend> element just below the opening <fieldset> tag. The text content of the <legend> formally describes the purpose of the <fieldset> it is included inside.
 
- - The items themselves can be aligned on the cross axis.
+- Many assistive technologies will use the <legend> element as if it is a part of the label of each control inside the corresponding <fieldset> element. For example, some screen readers such as Jaws and NVDA will speak the legend's content before speaking the label of each control.
 
-## CSS - Layout
+## Learn JS
 
-- Inline elements behave like words in a sentence. They sit next to each other in the inline direction. Elements such as <span> and <strong>, which are typically used to style pieces of text within containing elements like a <p> (paragraph), are inline by default. They also preserve surrounding whitespace.
+- JavaScript is a programming language that allows you to implement complex functionalities on web pages. Every time a web page does more than just sit there and display static information for you to look at—displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, or more—you can bet that JavaScript is probably involved.
+ 
+- JavaScript is arguably more difficult to learn than related technologies such as HTML and CSS. 
+ 
+- JavaScript is an actively evolving language and has changed greatly over the years. In particular, the 6th edition of the language (sometimes known as ECMAScript 2015 or ES6), introduced in 2015, added many new features. At the same time, to maintain backwards compatibility with older websites, old features of the language have been retained, even when they are no longer considered good practice.
 
-- You can't set an explicit width and height on inline elements. Any block level margin and padding will be ignored by the surrounding elements.
+ ## Introduction To Events
+ 
+- Events are actions or occurrences that happen in the system you are programming, which the system tells you about so your code can react to them.
 
-- Block elements don't sit alongside each other. They create a new line for themselves. Unless changed by other CSS code, a block element will expand to the size of the inline dimension, therefore spanning the full width in a horizontal writing mode. The margin on all sides of a block element will be respected.
-
+- For example, if the user clicks a button on a webpage, you might want to react to that action by displaying an information box. I
+ 
 ### Things I want to know more about
 
-- How can using certain properties of flexbox negatively impact accessibility?
+- If the user selects, clicks, or hovers the cursor over a certain element.
 
-- What are some advantages of using flexbox over float?
+- If the user chooses a key on the keyboard.
+
+- If the user resizes or closes the browser window.
+
+- If a web page finishes loading.
+
+- If a form is submitted.
+
+- If a video is played, paused, or ends.
+
+- If an error occurs.
 
 #### Link to my github portfolio [https://github.com/jenniferlidotson](https://github.com/jenniferlidotson)
