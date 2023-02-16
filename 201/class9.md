@@ -10,11 +10,11 @@
 
 - Form controls can also be programmed to enforce specific formats or values to be entered (form validation), and paired with text labels that describe their purpose to both sighted and visually impaired users.
 
-- The <form> element formally defines a form and attributes that determine the form's behavior. Each time you want to create an HTML form, you must start it by using this element, nesting all the contents inside. Many assistive technologies and browser plugins can discover <form> elements and implement special hooks to make them easier to use.
+- The form element formally defines a form and attributes that determine the form's behavior. Each time you want to create an HTML form, you must start it by using this element, nesting all the contents inside. Many assistive technologies and browser plugins can discover<form elements and implement special hooks to make them easier to use.
 
-- The <fieldset> element is a convenient way to create groups of widgets that share the same purpose, for styling and semantic purposes. You can label a <fieldset> by including a <legend> element just below the opening <fieldset> tag. The text content of the <legend> formally describes the purpose of the <fieldset> it is included inside.
+- The fieldset element is a convenient way to create groups of widgets that share the same purpose, for styling and semantic purposes. You can label a fieldset by including a legend element just below the opening fieldset tag. The text content of the legend formally describes the purpose of the fieldset it is included inside.
 
-- Many assistive technologies will use the <legend> element as if it is a part of the label of each control inside the corresponding <fieldset> element. For example, some screen readers such as Jaws and NVDA will speak the legend's content before speaking the label of each control.
+- Many assistive technologies will use the legend element as if it is a part of the label of each control inside the corresponding fieldset element. For example, some screen readers such as Jaws and NVDA will speak the legend's content before speaking the label of each control.
 
 ## Learn JS
 
