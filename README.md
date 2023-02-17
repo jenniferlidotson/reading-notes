@@ -46,7 +46,7 @@
 
 * [Class 09 - Forms and JS Events](./201/class9.md)
 
-* [Class 10 - TBD](./201/class10.md)
+* [Class 10 - Debugging](./201/class10.md)
 
 * [Class 11 - TBD](./201/class11.md)
 
