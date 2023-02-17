@@ -28,7 +28,7 @@
  
 - Events are actions or occurrences that happen in the system you are programming, which the system tells you about so your code can react to them.
 
-- For example, if the user clicks a button on a webpage, you might want to react to that action by displaying an information box. I
+- For example, if the user clicks a button on a webpage, you might want to react to that action by displaying an information box. 
  
 ### Things I want to know more about
 
