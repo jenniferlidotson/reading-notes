@@ -48,7 +48,7 @@
 
 * [Class 10 - Debugging](./201/class10.md)
 
-* [Class 11 - TBD](./201/class11.md)
+* [Class 11 - Audio, Video, Images](./201/class11.md)
 
 * [Class 12 - TBD](./201/class12.md)
 
