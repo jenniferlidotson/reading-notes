@@ -2,13 +2,11 @@
 
 ## JavaScript Canvas
 
-- width and height: You can control the video size either with these attributes or with CSS. In both cases, videos maintain their native width-height ratio — known as the aspect ratio. If the aspect ratio is not maintained by the sizes you set, the video will grow to fill the space horizontally, and the unfilled space will just be given a solid background color by default.
+- It is an HTML 5 element that allows you to draw 2D graphics using JavaScript.
 
-- autoplay: Makes the audio or video start playing right away, while the rest of the page is loading. You are advised not to use autoplaying video (or audio) on your sites, because users can find it really annoying.
+- The closing tag allows all the content in between the opening and closing tag to be displayed (fallback content) in case the browser does not support <canvas> element.
 
-- loop: Makes the video (or audio) start playing again whenever it finishes. This can also be annoying, so only use if really necessary.
-
-- muted: Causes the media to play with the sound turned off by default.
+- The getContext(2D) method allows for the figure to be drawn on the screen
 
 ## Chart.js Documentation
 
