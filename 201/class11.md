@@ -1,4 +1,4 @@
-# Class 10 Reading Notes: Audio, Video, Images
+# Class 11 Reading Notes: Audio, Video, Images
 
 ## Video and audio content
 
