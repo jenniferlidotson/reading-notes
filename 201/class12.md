@@ -10,31 +10,16 @@
 
 ## Chart.js Documentation
 
-- Resolution switching: The problem whereby you want to serve smaller image files to narrow-screen devices, as they don't need huge images like desktop displays do — and to serve different resolution images to high density/low density screens. You can solve this problem using vector graphics (SVG images) and the srcset with sizes attributes.
+- Chart.js is a charting library that works well with a lot of JavaScript frameworks. I could use Chart.js to graph the input data from the cookie-stand project as well as the data from the odd-duck project.
 
-- Art direction: The problem whereby you want to serve cropped images for different layouts — for example a landscape image showing a full scene for a desktop layout, and a portrait image showing the main subject zoomed in for a mobile layout. You can solve this problem using the <picture> element.
+- Scatter Chart, a Line Chart, and a Pie Chart
 
 ## Easily Create Stunning Animated Charts with Chart.js
 
-- The user is visually impaired, and is using a screen reader to read the web out to them. In fact, having alt text available to describe images is useful to most users.
+- They’re better for displaying data visually and they aren’t ever forced to be used as a layout tool.
 
-- The spelling of the file or path name might be wrong.
+- A chart added to my sales page for the Salmon Cookies project would be an advantageous way to display  information
 
-- The browser doesn't support the image type. Some people still use text-only browsers, such as Lynx, which displays the alt text of images.
-
-## Drawing Shapes With Canvas
-
-- Users have turned off images to reduce data transfer volume and distractions. This is especially common on mobile phones, and in countries where bandwidth is limited or expensive.
-
-- Decoration. You should use CSS background images for decorative images, but if you must use HTML, add a blank alt="". If the image isn't part of the content, a screen reader shouldn't waste time reading it.
-
-- Content. If your image provides significant information, provide the same information in a brief alt text – or even better, in the main text which everybody can see. Don't write redundant alt text. How annoying would it be for a sighted user if all paragraphs were written twice in the main content? If the image is described adequately by the main text body, you can just use alt="".
-
-## Drawing Text - Canvas API
-
-- Text. You should not put your text into images. If your main heading needs a drop shadow, for example, use CSS for that rather than putting the text into an image. However, If you really can't avoid doing this, you should supply the text inside the alt attribute.
-
-- Essentially, the key is to deliver a usable experience, even when the images can't be seen. This ensures all users are not missing any of the content. Try turning off images in your browser and see how things look. You'll soon realize how helpful alt text is if the image cannot be seen.
  
 ### Things I want to know more about
 
