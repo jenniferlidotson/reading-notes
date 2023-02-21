@@ -4,7 +4,7 @@
 
 - It is an HTML 5 element that allows you to draw 2D graphics using JavaScript.
 
-- The closing tag allows all the content in between the opening and closing tag to be displayed (fallback content) in case the browser does not support <canvas> element.
+- The closing tag allows all the content in between the opening and closing tag to be displayed (fallback content) in case the browser does not support canvas element.
 
 - The getContext(2D) method allows for the figure to be drawn on the screen
 
