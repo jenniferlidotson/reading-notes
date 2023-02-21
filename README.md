@@ -50,7 +50,7 @@
 
 * [Class 11 - Audio, Video, Images](./201/class11.md)
 
-* [Class 12 - TBD](./201/class12.md)
+* [Class 12 - Chart.js, Canvas](./201/class12.md)
 
 * [Class 13 - TBD](./201/class13.md)
 
