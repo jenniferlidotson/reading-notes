@@ -19,11 +19,10 @@
 - They’re better for displaying data visually and they aren’t ever forced to be used as a layout tool.
 
 - A chart added to my sales page for the Salmon Cookies project would be an advantageous way to display  information
-
  
 ### Things I want to know more about
 
-- From object to iframe — other embedding technologies (YouTube , Google Maps
+- From object to iframe — other embedding technologies (YouTube , Google Maps)
 
 - iframes in detail 
 
