@@ -52,7 +52,7 @@
 
 * [Class 12 - Chart.js, Canvas](./201/class12.md)
 
-* [Class 13 - TBD](./201/class13.md)
+* [Class 13 - Local Storage](./201/class13.md)
 
 * [Class 14 - TBD](./201/class14.md)
 
