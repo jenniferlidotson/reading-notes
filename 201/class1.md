@@ -22,7 +22,7 @@ HTML (HyperText Markup Language) is a markup language that tells web browsers ho
 
 - Describe the Anatomy of an HTMl element.
 
-- What is the Difference between <article> and <section> element tags?
+- What is the Difference between article and section element tags?
 
 - What Elements does a “typical” website include?
 
