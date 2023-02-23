@@ -2,32 +2,18 @@
 
 ## Psychological Safety
 
-- The main problem with HTTP as the main transport layer of the Web is that it is stateless. This means that when you use an application and then close it, its state will be reset the next time you open it. If you close an application on your desktop and re-open it, its most recent state is restored.
+- Within psychology, researchers sometimes colloquially refer to traits like ‘‘conversational turn-taking’’ and ‘‘average social sensitivity’’ as aspects of what’s known as psychological safety — a group culture that the Harvard Business School professor Amy Edmondson defines as a ‘‘shared belief held by members of a team that the team is safe for interpersonal risk-taking.’’ 
 
-- A cookie is a text file hosted on the user’s computer and connected to the domain that your website runs on. You can store information in them, read them out and delete them.
+- Psychological safety is ‘‘a sense of confidence that the team will not embarrass, reject or punish someone for speaking up,’’ Edmondson wrote in a study published in 1999. ‘‘It describes a team climate characterized by interpersonal trust and mutual respect in which people are comfortable being themselves.’’
 
-- You can also use sessionStorage instead of localStorage if you want the data to be maintained only until the browser window closes.
+- The behaviors that create psychological safety — conversational turn-taking and empathy — are part of the same unwritten rules we often turn to, as individuals, when we need to establish a bond. And those human bonds matter as much at work as anywhere else. In fact, they sometimes matter more.
 
-- Another use case is to store the state of interfaces. This could be as crude as storing the entire HTML or as clever as maintaining an object with the state of all of your widgets. 
+## [What Google Learned From Its Quest to Build the Perfect Team](https://web.archive.org/web/20221125192300/https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 
-- A developer needs to use local storage in order to store the state of the interface. The data can be stored on the webpage because it is easily accessible and can be retrieved faster. It can also help the developer maintain the quota set aside. As HTTP is stateless, devs need to store the state of their interface somewhere to preserve its most recent state (and for faster loading times). When storing it server-side isn’t an option, you need local storage. A developer would use local storage for web application so that web information can load faster for the user.
+- What are three key factors that contribute to psychologically safe teams? Enthusiasm for one another’s ideas, joking around and having fun. These norms allows everyone to feel relaxed and energized.
 
-- Local storage should not contain any data needed to run the program. Personal information, as local storage can be exploited. Exploitation tools or unwelcomed cookies shouldn’t be stored in local storage.
+- Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety. I was on a team recently that always made me feel totally exhausted and it affected my sleep so badly that I got insomnia. This team was so draining because people always had a tendency to critique each other in a very competitive environment.
 
-- Strings are the only datatype that can be stored in local storage. Strings!  Local storage can store data type atarting as strings. It can be converted to other data types by using “JSON.stringify()” or “JSON.parse()” methods.
-
-## What Google Learned From Its Quest to Build the Perfect Team
-
-- Persistent local storage is one of the areas where native client applications have held an advantage over web applications. For native applications, the operating system typically provides an abstraction layer for storing and retrieving application-specific data like preferences or runtime state. These values may be stored in the registry, INI files, XML files, or some other place according to platform convention. If your native client application needs local storage beyond key/value pairs, you can embed your own database, invent your own file format, or any number of other solutions.
-
-### Things I want to know more about
-
-- HTML5 Storage specification
-
-- DOM Storage on Mozilla Developer Center
-
-- Dojo Storage
-
-- Web SQL Databases
+- What impact do teams that operate with a high degree of psychological safety have on their company and the team members? Communication and empathy are the building blocks of forging real connections. This leads to teams that are faster, better and more productive.
 
 #### Link to my github portfolio [https://github.com/jenniferlidotson](https://github.com/jenniferlidotson)
