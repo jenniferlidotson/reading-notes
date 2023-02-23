@@ -56,7 +56,7 @@
 
 - [Pure CSS Bounce Animation](http://codepen.io/dp_lewis/pen/gCfBv)
 
-- [6 Buttons animated](http://codepen.io/dp_lewis/pen/gCfBv](http://codepen.io/retyui/pen/ByoaXV)
+- [6 Buttons animated](http://codepen.io/dp_lewis/pen/gCfBv)
 
 - [Pure CSS Bounce Animation](http://codepen.io/dp_lewis/pen/gCfBv)
 
