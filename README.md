@@ -54,7 +54,7 @@
 
 * [Class 13 - Local Storage](./201/class13.md)
 
-* [Class 14a - Psychological Safety](./201/class14a.md)
+* [Class 14a - Psychological Safety](./201/class14.md)
 
 * [Class 14b - CSS Transforms, CSS Transitions & Animations](./201/class14b.md)
 
